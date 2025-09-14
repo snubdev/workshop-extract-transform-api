@@ -1,0 +1,112 @@
+ID,Nome_Produto,Categoria,Data_Registro,Preco
+1,Smartwatch Xiaomi,Eletrônicos,2023-01-10,899.90
+2,Cadeira Escritório Ergonômica,Móveis,2023/02/05,749.50
+3,Hub USB-C 7 portas,Periféricos,2023-03-12,159.00
+4,Notebook Dell Inspiron,Eletrônicos,15-Apr-2023,3850.00
+5,Luminária de Chão,Móveis,2023-05-01,299.99
+6,Monitor LG Ultrawide,Eletrônicos,2023/06/18,1899.00
+7,Teclado Gamer Redragon,Periféricos,2023-07-07,289.75
+8,Micro-ondas Electrolux,Eletrodomésticos,2023-08-20,699.00
+9,SSD Externo 500GB,Armazenamento,2023/09/30,449.90
+10,Pen Drive 64GB,Armazenamento,10-Oct-2023,79.90
+11,TV Samsung 50",Eletrônicos,2023-11-05,3299.00
+12,Estante de Livros,Móveis,2023/12/15,980.00
+13,Mouse Gamer RGB,Periféricos,2024-01-22,199.99
+14,Impressora Multifuncional HP,Eletrônicos,2024-02-10,1050.00
+15,Tablet Samsung Galaxy Tab,Eletrônicos,2024/03/18,2150.00
+16,Cadeira Gamer Reclinável,Móveis,2024-04-05,1390.00
+17,Webcam Logitech C920,Periféricos,05-May-2024,349.90
+18,HD Interno 1TB,Armazenamento,2024-06-01,399.00
+19,Ar Condicionado 12000BTU,Eletrodomésticos,2024/07/10,2450.00
+20,Soundbar JBL 2.1,Eletrônicos,10-Aug-2024,1199.00
+21,Smart TV LG,Eletrônicos,2022-09-15,3200.00
+22,Notebook Acer,Eletrônicos,16/10/2022,2950.75
+23,Teclado Sem Fio,Periféricos,2022/11/05,180.90
+24,Mouse Óptico,Periféricos,05-Dec-2022,89.99
+25,Estante Madeira,Móveis,2022-12-20,1150.00
+26,Monitor Samsung,Eletrônicos,03/01/2023,1399.50
+27,Impressora Epson,Eletrônicos,2023/02/14,850.00
+28,Headset Logitech,Periféricos,14-Mar-2023,420.00
+29,SSD NVMe 1TB,Armazenamento,2023-04-01,699.99
+30,HD Interno 2TB,Armazenamento,01/05/2023,499.90
+31,Cadeira Gamer,Móveis,2023/06/10,1650.00
+32,Câmera Nikon,Eletrônicos,10-Jul-2023,3850.00
+33,Luminária de Mesa,Iluminação,2023-08-05,145.00
+34,Smartwatch Amazfit,Eletrônicos,05/09/2023,780.00
+35,Liquidificador Arno,Eletrodomésticos,2023/10/12,230.00
+36,Micro-ondas Electrolux,Eletrodomésticos,12-Nov-2023,899.90
+37,Fone com Cancelamento,Periféricos,2023-12-01,620.00
+38,Tablet Samsung,Eletrônicos,01/01/2024,2100.00
+39,Fogão 4 Bocas,Eletrodomésticos,2024/02/18,1899.00
+40,Poltrona Reclinável,Móveis,18-Mar-2024,2450.00
+41,Notebook Dell,Eletrônicos,2024-04-15,3550.00
+42,Smartphone Samsung,Eletrônicos,15/05/2024,2250.00
+43,Teclado Mecânico,Periféricos,2024/06/10,460.00
+44,Mouse Gamer,Periféricos,10-Jul-2024,210.99
+45,Cadeira Escritório,Móveis,2024-08-06,920.00
+46,Monitor LG,Eletrônicos,06/09/2024,1300.00
+47,Impressora HP,Eletrônicos,2024/10/01,799.90
+48,Headset HyperX,Periféricos,01-Nov-2024,360.00
+49,SSD Kingston,Armazenamento,2024-12-12,615.00
+50,HD Externo,Armazenamento,12/01/2025,410.00
+51,Mesa Gamer,Móveis,2025/02/20,1525.00
+52,Câmera Canon,Eletrônicos,20-Mar-2025,4300.00
+53,Luminária LED,Iluminação,2025-04-05,125.00
+54,Smartwatch Xiaomi,Eletrônicos,05/05/2025,960.00
+55,Cafeteira Elétrica,Eletrodomésticos,15-Jun-2025,330.00
+56,Air Fryer,Eletrodomésticos,2025-07-10,715.00
+57,Fone Bluetooth,Periféricos,2025/08/18,265.00
+58,Tablet Lenovo,Eletrônicos,18-Sep-2025,1850.00
+59,Geladeira Brastemp,Eletrodomésticos,25/10/2025,3150.00
+60,Sofá 3 Lugares,Móveis,2025-11-30,2850.00
+61,Notebook Dell,Eletrônicos,2025-12-01,3599.00
+62,Smartphone Samsung,Eletrônicos,02/12/2025,2299.99
+63,Teclado Mecânico,Periféricos,2025/12/03,470.00
+64,Mouse Gamer,Periféricos,04-Dec-2025,215.50
+65,Cadeira Escritório,Móveis,2025-12-05,935.00
+66,Monitor LG,Eletrônicos,06/12/2025,1325.00
+67,Impressora HP,Eletrônicos,2025/12/07,810.00
+68,Headset HyperX,Periféricos,08-Dec-2025,370.00
+69,SSD Kingston,Armazenamento,2025-12-09,625.00
+70,HD Externo,Armazenamento,10/12/2025,420.00
+71,Notebook Dell,Eletrônicos,2026-01-05,3620.00
+72,Smartphone Samsung,Eletrônicos,06/01/2026,2300.00
+73,Teclado Mecânico,Periféricos,2026/01/07,475.00
+74,Mouse Gamer,Periféricos,08-Jan-2026,219.90
+75,Cadeira Escritório,Móveis,2026-01-10,940.00
+76,Monitor LG,Eletrônicos,11/01/2026,1340.00
+77,Impressora HP,Eletrônicos,2026/01/12,820.00
+78,Headset HyperX,Periféricos,13-Jan-2026,375.00
+79,SSD Kingston,Armazenamento,2026-01-14,630.00
+80,HD Externo,Armazenamento,15/01/2026,425.00
+81,Mesa Gamer,Móveis,2026/01/16,1540.00
+82,Câmera Canon,Eletrônicos,17-Jan-2026,4350.00
+83,Luminária LED,Iluminação,2026-01-18,130.00
+84,Smartwatch Xiaomi,Eletrônicos,19/01/2026,970.00
+85,Cafeteira Elétrica,Eletrodomésticos,2026/01/20,340.00
+86,Air Fryer,Eletrodomésticos,21-Jan-2026,725.00
+87,Fone Bluetooth,Periféricos,2026-01-22,270.00
+88,Tablet Lenovo,Eletrônicos,23/01/2026,1875.00
+89,Geladeira Brastemp,Eletrodomésticos,2026/01/24,3200.00
+90,Sofá 3 Lugares,Móveis,25-Jan-2026,2900.00
+91,Smart TV LG,Eletrônicos,2026-01-26,3250.00
+92,Notebook Acer,Eletrônicos,27/01/2026,3000.00
+93,Teclado Sem Fio,Periféricos,2026/01/28,185.00
+94,Mouse Óptico,Periféricos,29-Jan-2026,95.00
+95,Estante Madeira,Móveis,2026-01-30,1175.00
+96,Monitor Samsung,Eletrônicos,31/01/2026,1420.00
+97,Impressora Epson,Eletrônicos,2026/02/01,860.00
+98,Headset Logitech,Periféricos,02-Feb-2026,430.00
+99,SSD NVMe 1TB,Armazenamento,2026-02-03,710.00
+100,HD Interno 2TB,Armazenamento,04/02/2026,510.00
+101,Pen Drive 64GB,Armazenamento,10-Oct-2023,79.90
+102,TV Samsung 50",Eletrônicos,2023-11-05,3299.00
+102,Estante de Livros,Móveis,2023/12/15,980.00
+103,Mouse Gamer RGB,Periféricos,2024-01-22,199.99
+104,Impressora Multifuncional HP,Eletrônicos,2024-02-10,1050.00
+105,Tablet Samsung Galaxy Tab,Eletrônicos,2024/03/18,2150.00
+106,Cadeira Gamer Reclinável,Móveis,2024-04-05,1390.00
+107,Webcam Logitech C920,Periféricos,05-May-2024,349.90
+108,HD Interno 1TB,Armazenamento,2024-06-01,399.00
+109,Ar Condicionado 12000BTU,Eletrodomésticos,2024/07/10,2450.00
+110,Soundbar JBL 2.1,Eletrônicos,10-Aug-2024,1199.00
